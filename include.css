@@ -1,8 +1,8 @@
-.wc-table-hotels-list a {
+.wcu-table-hotels-list a {
 	box-shadow: none;
 }
 
-.wc-table-hotels-list .tripadvisor-rating {
+.wcu-table-hotels-list .tripadvisor-rating {
 	background: #8BC34A;
 	color: #fff;
 	display: inline-block;
